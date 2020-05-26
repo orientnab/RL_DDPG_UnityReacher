@@ -11,6 +11,21 @@ The observation space consists of 33 variables corresponding to position, rotati
 ## Solving the Environment
 The task is episodic, and in order to solve the environment, the agent must get an average score of +30 over 100 consecutive episodes.
 
+## Getting Started
+You can download the environment from one of the links below.
+You need only select the environment that matches your operating system.
+
+Option for Linux, Mac and Windows can be found in [Udacity Deep Reinforcement Learning repository](https://github.com/udacity/deep-reinforcement-learning/tree/master/p2_continuous-control#getting-started).
+
+It is also possible to train the agent in AWS. Full instructions in the aforementioned repository.
+
+## Dependencies
+You will need in your system:
+- Jupyter
+- Pytorch
+- Numpy
+- Some extras such as Matplotlib
+
 ## Instructions
 Follow the instructions in `Continuous_Control.ipynb` to get started with training the agent.
 
